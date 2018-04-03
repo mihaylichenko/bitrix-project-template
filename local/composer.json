@@ -1,0 +1,12 @@
+{
+    "require": {
+        "arrilot/bitrix-migrations": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Project\\Helpers\\": "php_interface/project/helpers",
+            "Project\\Events\\": "php_interface/project/events",
+            "Wn\\Helpers\\": "php_interface/wn/helpers"
+        }
+    }
+}

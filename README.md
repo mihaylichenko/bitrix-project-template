@@ -1,2 +1,2 @@
-# bitrixproject
-Правильная организация bitrix проекта. Composer, git.
+# Правильная организация bitrix проекта
+

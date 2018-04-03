@@ -1,0 +1,5 @@
+RewriteRule ^(migrations/|vendor/) - [F,L,NC]
+<FilesMatch "migrator">
+   Order allow,deny
+   Deny from all
+</FilesMatch>
